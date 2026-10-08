@@ -1,4 +1,4 @@
-# Task 13 - Matrix Row Modification
+# Exercise 13 - Matrix Row Modification
 
 ## Description
 
@@ -26,9 +26,8 @@ The **modified** matrix should be printed on the screen.
 
 <img width="233" height="173" alt="image" src="https://github.com/user-attachments/assets/d828e1d3-ca61-4e5a-acdb-b397d906d0ae" />
 
-# Task 13 - Промена на редици во матрица
+# Задача 13 - Промена на редици во матрица
 
-## 🇲🇰 Македонски
 
 Од стандарден влез се вчитува еден **цел број `X`**, **димензии на матрица `M` и `N`** (цели броеви), како и **елементите на матрицата со димензии `M x N`** (цели броеви).
 
