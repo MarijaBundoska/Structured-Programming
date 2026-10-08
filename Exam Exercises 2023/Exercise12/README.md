@@ -1,4 +1,4 @@
-# Task 12 - Counting Positive Numbers Recursively
+# Exercise 12 - Counting Positive Numbers Recursively
 
 ## Description
 
