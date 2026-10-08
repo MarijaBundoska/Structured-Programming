@@ -20,10 +20,12 @@ Print the new matrix `B` to standard output.
 ### Example
 
 **Matrix A**
+
 <img width="261" height="153" alt="image" src="https://github.com/user-attachments/assets/1255fedf-4233-4a70-bfcf-d6a0d4d22c5f" />
 
 
 **Matrix B**
+
 <img width="339" height="153" alt="image" src="https://github.com/user-attachments/assets/50dc1bab-db34-4372-becb-83f01da7f4ae" />
 
 
