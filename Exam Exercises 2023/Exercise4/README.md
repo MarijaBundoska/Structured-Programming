@@ -22,7 +22,7 @@ If a quadrant cannot be formed, the sum for that quadrant should be printed as `
 
 ---
 
-# Вежба 4 - Квадранти на матрица
+# Задача 4 - Квадранти на матрица
 
 ## Опис на задачата
 
