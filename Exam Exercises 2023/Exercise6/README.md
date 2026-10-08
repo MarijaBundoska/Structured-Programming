@@ -16,7 +16,7 @@ The program should count and print to standard output in how many of the rows an
 1 row + 1 column = 2
 ```
 
-# Вежба 6 - Редици и колони со последователни единици
+# Задача 6 - Редици и колони со последователни единици
 
 ## Опис на задачата
 
