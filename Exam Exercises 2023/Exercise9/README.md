@@ -1,6 +1,5 @@
-# Task 9 - Recursive Function for a Continued Fraction
+# Exercise 9 - Recursive Function for a Continued Fraction
 
-## 🇬🇧 English
 
 Implement a **recursive** function that, for an array of integers $[a_0, a_1, ..., a_{n-1}]$, calculates the value of the continued fraction defined as:
 
@@ -13,7 +12,7 @@ Then, the recursive function is called and the result is printed on a new line.
 
 ---
 
-## 🇲🇰 Македонски
+# Задача 9 - Рекурзивна функција за непрекината дропка
 
 Да се имплементира **рекурзивна** функција која за низа од цели броеви $[a_0, a_1, ..., a_{n-1}]$ ќе ја пресмета вредноста на непрекинатата дропка дефинирана како:
 
