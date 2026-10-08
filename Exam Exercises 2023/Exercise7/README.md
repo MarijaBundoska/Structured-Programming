@@ -28,7 +28,7 @@ The order of writing the elements in the sequence corresponds to the order of th
 5 1 1
 ```
 
-# Вежба 7 - Најоддалечен елемент од аритметичката средина
+# Задача 7 - Најоддалечен елемент од аритметичката средина
 
 ## Опис на задачата
 
