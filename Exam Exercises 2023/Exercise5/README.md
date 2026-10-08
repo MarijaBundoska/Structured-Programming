@@ -18,7 +18,7 @@ Your task is to **print the type with the highest coefficient** as well as the *
 
 The possible winnings are calculated as the product of all coefficients multiplied by the amount of the bet.
 
-# Вежба 5 - Ливче во спортска обложувалница
+# Задача 5 - Ливче во спортска обложувалница
 
 ## Опис на задачата
 
