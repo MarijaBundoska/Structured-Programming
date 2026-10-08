@@ -1,7 +1,5 @@
 # Task 14 - Matrix Transformation
 
-## 🇬🇧 English
-
 ### Description
 
 Write a program that reads a matrix `A` of integers with `N` rows and `2 * N` columns (`N` is not greater than 50).
@@ -26,8 +24,6 @@ For `N = 3`:
 <img width="149" height="217" alt="image" src="https://github.com/user-attachments/assets/358e270f-af60-47f6-bc1b-37ea858c1559" />
 
 # Task 14 - Трансформација на матрица
-
-## 🇲🇰 Македонски
 
 ### Опис
 
