@@ -17,6 +17,9 @@ The sums should be printed in the following order:
 
 If a quadrant cannot be formed, the sum for that quadrant should be printed as `0`.
 
+<img width="573" height="547" alt="image" src="https://github.com/user-attachments/assets/87df9754-f252-45a4-a880-5ff669562064" />
+
+
 ---
 
 # Вежба 4 - Квадранти на матрица
