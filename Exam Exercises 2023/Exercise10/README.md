@@ -1,4 +1,4 @@
-# Task 10 - Substrings Between Two Characters
+# Exercise 10 - Substrings Between Two Characters
 
 ## Description
 
@@ -11,6 +11,8 @@ Each substring is printed on a new line.
 It is assumed that each line of the input **contains the characters `z1` and `z2` exactly once**, the character `z1` is always located **before** the character `z2`, and there is always **at least one character between `z1` and `z2`**.
 
 ---
+
+# Задача 10 - Поднизи меѓу два знака
 
 ## Опис
 
