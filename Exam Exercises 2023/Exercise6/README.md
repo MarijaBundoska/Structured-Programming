@@ -26,6 +26,11 @@ The program should count and print to standard output in how many of the rows an
 
 Програмата треба да изброи и отпечати на стандарден излез во колку од редиците и колоните има барем **3 последователни елементи** со вредност `1`.
 
+### Пример
+
+<img width="165" height="116" alt="image" src="https://github.com/user-attachments/assets/eb7ff278-c11d-461f-994c-ae953e764cb6" />
+
+
 ```text
 1 ред + 1 колона = 2
 ```
