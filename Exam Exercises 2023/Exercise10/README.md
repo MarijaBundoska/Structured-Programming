@@ -1,6 +1,6 @@
 # Task 10 - Substrings Between Two Characters
 
-## Discription
+## Description
 
 From standard input, first two characters `z1` and `z2` are read, and then lines containing sequences of characters are read until the character `#` is read (each line is no longer than 80 characters).
 
