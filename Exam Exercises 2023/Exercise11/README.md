@@ -1,4 +1,4 @@
-# Task 11 - Digits Sorted by ASCII Code
+# Exercise 11 - Digits Sorted by ASCII Code
 
 ## Description
 
@@ -9,6 +9,8 @@ Write a program in which, for each read line, the number of digits in that line 
 The sequences of characters are not longer than 100 characters.
 
 ---
+
+# Задача 11 - Цифри подредени според ASCII кодот
 
 ## Опис
 
