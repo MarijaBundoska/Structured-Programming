@@ -1,4 +1,4 @@
-# Task 14 - Matrix Transformation
+# Exercise 14 - Matrix Transformation
 
 ### Description
 
@@ -23,7 +23,7 @@ For `N = 3`:
 
 <img width="149" height="217" alt="image" src="https://github.com/user-attachments/assets/358e270f-af60-47f6-bc1b-37ea858c1559" />
 
-# Task 14 - Трансформација на матрица
+# Задача 14 - Трансформација на матрица
 
 ### Опис
 
