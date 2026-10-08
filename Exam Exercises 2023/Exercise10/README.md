@@ -1,6 +1,6 @@
 # Task 10 - Substrings Between Two Characters
 
-## 🇬🇧 English
+## Discription
 
 From standard input, first two characters `z1` and `z2` are read, and then lines containing sequences of characters are read until the character `#` is read (each line is no longer than 80 characters).
 
@@ -12,7 +12,7 @@ It is assumed that each line of the input **contains the characters `z1` and `z2
 
 ---
 
-## 🇲🇰 Македонски
+## Опис
 
 Од стандарден влез прво се читаат два знака `z1` и `z2`, а потоа се читаат редови со низи од знаци сè додека не се прочита знакот `#` (секој од редовите не е подолг од 80 знаци).
 
