@@ -8,12 +8,12 @@ The matrix should be transformed so that **every element located to the right of
 
 **Example Explanation:**
 
-```text
-2  3  5  *9*
-7  8  *4*  2
-4  *2*  3  5
-*7* 10 9  2
-```
+<table>
+  <tr><td>2</td><td>3</td><td>5</td><td><b>9</b></td></tr>
+  <tr><td>7</td><td>8</td><td><b>4</b></td><td>2</td></tr>
+  <tr><td>4</td><td><b>2</b></td><td>3</td><td>5</td></tr>
+  <tr><td><b>7</b></td><td>10</td><td>9</td><td>2</td></tr>
+</table>
 For the second row, the element on the secondary diagonal is '4'. The elements to its left are '7' and '8', whose average is '7.5'. The element to its right is '2', which is smaller than '7.5', so it is replaced with '-1'.
 
 
@@ -26,12 +26,12 @@ For the second row, the element on the secondary diagonal is '4'. The elements t
 Матрицата треба да се трансформира така што **секој елемент што се наоѓа десно од споредната дијагонала во истата редица и е помал од просекот на елементите лево од споредната дијагонала во истата редица, треба да се замени со `-1`**. Вака трансформираната матрица да се испечати на екран.
 
 **Објаснување на примерот:**
-```text
-2  3  5  *9*
-7  8  *4*  2
-4  *2*  3  5
-*7* 10 9  2
-```
+<table>
+  <tr><td>2</td><td>3</td><td>5</td><td><b>9</b></td></tr>
+  <tr><td>7</td><td>8</td><td><b>4</b></td><td>2</td></tr>
+  <tr><td>4</td><td><b>2</b></td><td>3</td><td>5</td></tr>
+  <tr><td><b>7</b></td><td>10</td><td>9</td><td>2</td></tr>
+</table>
 
 За втората редица, елементот на споредната дијагонала е `4`. Елементите лево од него се `7` и `8`, чиј просек е `7.5`. Елементот десно од него е `2`. Бидејќи `2` е помал од `7.5`, тој се заменува со `-1`.
 
