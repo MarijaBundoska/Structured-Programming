@@ -47,10 +47,19 @@ For the second row, the element on the secondary diagonal is '4'. The elements t
 
 **Input:**
 ```text
+4
+2 3 5 9
+7 8 4 2
+4 2 3 5
+7 10 9 2
 ```
 **Expected output:**
 
 ```text
+2 3 5 9
+7 8 4 -1
+4 2 -1 5
+7 10 9 2
 ```
 
 
@@ -61,10 +70,21 @@ For the second row, the element on the secondary diagonal is '4'. The elements t
 
 **Input:**
 ```text
+5
+1 2 3 4 5
+2 7 9 13 3
+4 6 8 3 1
+7 2 9 10 6
+5 3 9 2 1
 ```
 **Expected output:**
 
 ```text
+1 2 3 4 5
+2 7 9 13 -1
+4 6 8 -1 -1
+7 2 9 10 -1
+5 3 9 2 1
 ```
 
 
@@ -75,10 +95,17 @@ For the second row, the element on the secondary diagonal is '4'. The elements t
 
 **Input:**
 ```text
+3
+7 2 8
+4 3 2
+2 5 2
 ```
 **Expected output:**
 
 ```text
+7 2 8
+4 3 -1
+2 5 2
 ```
 
 
@@ -89,8 +116,23 @@ For the second row, the element on the secondary diagonal is '4'. The elements t
 
 **Input:**
 ```text
+7
+5 8 9 3 2 6 1
+5 2 9 2 5 4 10
+2 3 4 2 3 2 4
+10 2 5 9 3 4 6
+7 13 2 9 11 9 13
+3 4 1 5 1 2 5
+2 9 8 7 6 2 5
 ```
 **Expected output:**
 
 ```text
+5 8 9 3 2 6 1
+5 2 9 2 5 4 10
+2 3 4 2 3 -1 4
+10 2 5 9 -1 -1 6
+7 13 2 -1 11 -1 13
+3 4 -1 5 -1 -1 5
+2 9 8 7 6 2 5
 ```
