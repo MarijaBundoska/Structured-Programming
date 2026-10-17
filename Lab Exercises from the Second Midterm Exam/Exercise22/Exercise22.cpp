@@ -30,10 +30,9 @@ int main() {
 
     for (int i = 0; i < n; i++) {
         cin >> number;
-
         if (increasing(number) == 1) {
             int sum = sumDigits(number);
-            cout << number << " (sum: " << sum << ")" << endl;
+            cout << number << " (" << "suma: " << sum << ")" << endl;
         }
     }
 
