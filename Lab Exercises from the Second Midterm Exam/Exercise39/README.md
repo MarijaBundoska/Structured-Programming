@@ -1,10 +1,10 @@
-## Exercise 40 - Maximum Subarray Sum
+## Exercise 39 - Maximum Subarray Sum
 
 Write a program to find the subarray with the largest sum of elements and print that sum.
 
 Additionally, find and print the percentage of elements used in the subarray compared to the total number of elements in the array.
 
-## Задача 40 - Подниза со најголем збир
+## Задача 39 - Подниза со најголем збир
 
 Напишете програма со која ќе ја пронајдете поднизата со најголем збир на елементите и испечатете го тој збир.
 
