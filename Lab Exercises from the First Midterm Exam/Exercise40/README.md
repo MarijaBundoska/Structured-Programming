@@ -1,4 +1,4 @@
-## Exercise 39 - Student Service Waiting Time
+## Exercise 40 - Student Service Waiting Time
 
 ### Problem Description
 
@@ -9,6 +9,10 @@ The student service starts working at 9 a.m. It works for 2 hours, takes a 30-mi
 The student service needs exactly 5 minutes to serve one student.
 
 Your task is to determine, given the position of a student in the queue, the time in hours and minutes that the student will wait before being served. If the student will not be served before the student service closes, print `Student will not be served at all`.
+
+
+## Задача 40 - Време на чекање во студентската служба
+
 
 ### Опис на задачата
 
