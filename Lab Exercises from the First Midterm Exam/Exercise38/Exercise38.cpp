@@ -1,0 +1,32 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main() {
+    int credits, year;
+    double average, points = 0;
+
+    cin >> credits >> year >> average;
+
+    if (year >= 2010 && year <= 2023) {
+        if (credits > 100 && average > 8) {
+            // predictedCredits мора да биде децимален број (double) за децимално делење
+            double predictedCredits = (2023 - year) * 60;
+
+            // Пресметка со децимално делење
+            points = (credits / predictedCredits) * 10.0 + (average - 8.5) * 6.5;
+
+            if (credits > 240) {
+                cout << "Needs to graduate! ";
+            }
+
+            if (average > 9) {
+                cout << "Great student! ";
+            }
+        }
+    }
+
+    cout << "Points: " << points << endl;
+
+    return 0;
+}
