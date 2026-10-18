@@ -1,8 +1,8 @@
-## Exercise 11 - Calculating the Perimeter and Area of a Circle
+## Exercise 12 - Calculating the Perimeter and Area of a Circle
 
 Write a program that reads the radius of a circle from standard input. Print the perimeter and area of the circle.
 
-## Задача 11 - Пресметување на периметарот и плоштината на кружница
+## Задача 12 - Пресметување на периметарот и плоштината на кружница
 
 Да се напише програма која чита радиус на кружница од стандарден влез. На излез да се испечати периметарот и плоштината на кружницата.
 
