@@ -1,0 +1,126 @@
+## Exercise 10 - Substrings Between Two Characters
+
+### Description
+
+First, two characters `z1` and `z2` are read from standard input. Then, lines of text are read until the character `#` is encountered. Each line contains at most 80 characters.
+
+Write a program that prints the substrings consisting of the characters located **between `z1` and `z2` (excluding them)** in each line. Each substring should be printed on a new line.
+
+It is guaranteed that each line contains the characters `z1` and `z2` **exactly once**, that `z1` always appears **before** `z2`, and that there is **at least one character** between them.
+
+## Задача 10 - Поднизи меѓу два знака
+
+### Опис
+
+Од стандарден влез прво се читаат два знака `z1` и `z2`, а потоа се читаат редови со низи од знаци сè додека не се прочита знакот `#`. Секој ред не е подолг од 80 знаци.
+
+Да се напише програма со која на стандарден излез ќе се испечатат поднизите од секој ред составени од знаците што се наоѓаат **меѓу `z1` и `z2` (без нив)**. Секоја подниза се печати во нов ред.
+
+Се смета дека секој ред точно еднаш ги содржи знаците `z1` и `z2`, знакот `z1` секогаш се наоѓа **пред** знакот `z2`, а меѓу `z1` и `z2` секогаш има барем еден знак.
+
+
+
+
+## Test Cases
+
+
+### Test Case 1
+
+**Input:**
+```text
+0 9
+nfjskdz0nvjkfdmnlks9bvfkjmcdz,
+bfhjdskvfdkl0fvkdzddjmje k dmkldz kdfds!%mlacsd9
+0fbnrjkdn9
+fjkd0jdfkfmjndksfjd;sj sad;jm 9nfcjka
+#
+```
+**Expected output:**
+
+```text
+nvjkfdmnlks
+fvkdzddjmje k dmkldz kdfds!%mlacsd
+fbnrjkdn
+jdfkfmjndksfjd;sj sad;jm
+```
+
+
+
+
+
+### Test Case 2
+
+**Input:**
+```text
+, :
+1122,mleko:100
+1312,leb:50
+14567,kakao:20
+987,testo za pica:30
+7865,FINKI smoki:150
+34567,jogurt:85
+2345,puter:130
+#
+```
+**Expected output:**
+
+```text
+1122,mleko:100
+1312,leb:50
+14567,kakao:20
+987,testo za pica:30
+7865,FINKI smoki:150
+34567,jogurt:85
+2345,puter:130
+#
+mleko
+leb
+kakao
+testo za pica
+FINKI smoki
+jogurt
+puter
+```
+
+
+
+
+### Test Case 3
+
+**Input:**
+```text
+5 :
+12345Maja Majovska: 34
+13145Aco Acoski: 93
+14785Martin Martinoski: 87
+#
+```
+**Expected output:**
+
+```text
+Maja Majovska
+Aco Acoski
+Martin Martinoski
+```
+
+
+
+
+
+### Test Case 4
+
+**Input:**
+```text
+- :
+12345-Maja Majovska: 54
+15145-Aco Acoski: 95
+14785-Martin Martinoski: 87
+#
+```
+**Expected output:**
+
+```text
+Maja Majovska
+Aco Acoski
+Martin Martinoski
+```
