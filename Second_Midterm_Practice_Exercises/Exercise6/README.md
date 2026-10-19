@@ -6,6 +6,12 @@ Write a program that reads a matrix with dimensions `M x N` (maximum size `100 x
 
 The program should count and print the number of rows and columns that contain at least three consecutive elements with the value `1`.
 
+Example:
+
+<img width="153" height="99" alt="image" src="https://github.com/user-attachments/assets/f939de04-2325-4eed-bec5-6d61a51acf2e" />
+
+
+
 ## Задача 6 - Броење редици и колони со три последователни единици
 
 ### Опис
@@ -13,6 +19,12 @@ The program should count and print the number of rows and columns that contain a
 Да се напише програма која вчитува матрица со димензии `M x N` (максимум `100 x 100`). На почетокот се внесуваат димензиите на матрицата, а потоа и нејзините елементи, кои можат да имаат само вредности `1` и `0`.
 
 Програмата треба да изброи и да испечати на стандарден излез во колку редици и колони има барем три последователни елементи со вредност `1`.
+
+Пример:
+
+
+<img width="153" height="99" alt="image" src="https://github.com/user-attachments/assets/da022736-95da-4cf4-a110-0f50fd316e58" />
+
 
 
 ## Test Cases
