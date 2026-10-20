@@ -12,6 +12,25 @@ Write a program that modifies the rows of the matrix according to the following 
 
 Print the modified matrix to the screen.
 
+### Example
+
+**Input:**
+```text
+31
+```
+
+<img width="167" height="144" alt="image" src="https://github.com/user-attachments/assets/e7732c7d-3322-43df-83a3-3337f5f54b6b" />
+
+
+
+**Output:**
+
+
+<img width="206" height="143" alt="image" src="https://github.com/user-attachments/assets/208b0475-4ac1-4f24-a03f-5ff5c077a3eb" />
+
+
+
+
 ## Задача 13 - Промена на редиците во матрица според нивниот збир
 
 ### Опис
@@ -26,6 +45,21 @@ Print the modified matrix to the screen.
 
 Променетата матрица да се испечати на екран.
 
+
+### Пример
+
+**Влез:**
+```text
+31
+```
+
+<img width="167" height="144" alt="image" src="https://github.com/user-attachments/assets/fb18d12d-c804-4245-a965-861f544a3062" />
+
+
+
+**Излез:**
+
+<img width="206" height="143" alt="image" src="https://github.com/user-attachments/assets/bc1329ae-9c95-4ef2-b0c1-174337c05117" />
 
 
 
