@@ -1,4 +1,4 @@
-## Exercise 20 - Recursive Caesar Cipher
+## Exercise 19 - Recursive Caesar Cipher
 
 ### Description
 
@@ -23,7 +23,7 @@ The string `Welcome`, shifted by `5` positions, becomes:
 Bjqhtrj
 ```
 
-## Задача 20 - Рекурзивна трансформација на низи со поместување на буквите
+## Задача 19 - Рекурзивна трансформација на низи со поместување на буквите
 
 ### Опис
 
