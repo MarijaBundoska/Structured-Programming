@@ -15,9 +15,17 @@ For `N = 3`:
 3
 ```
 
+<img width="245" height="88" alt="image" src="https://github.com/user-attachments/assets/549ab152-17e8-4a1b-9ba8-883a643565c3" />
+
+
+
 **Output:**
-```text
-```
+
+
+<img width="120" height="177" alt="image" src="https://github.com/user-attachments/assets/f5089f1c-8320-4ce0-961b-5c15c484869c" />
+
+
+
 
 ## Задача 14 - Трансформација на матрица во нова матрица
 
@@ -36,10 +44,15 @@ For `N = 3`:
 3
 ```
 
-**Излез:**
-```text
-```
+<img width="245" height="88" alt="image" src="https://github.com/user-attachments/assets/d1d54af6-821b-45f9-a14b-df2f894eb3ad" />
 
+
+
+**Излез:**
+
+
+
+<img width="120" height="177" alt="image" src="https://github.com/user-attachments/assets/3da4e861-157f-4edc-a423-c1ec50520408" />
 
 
 
